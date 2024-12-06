@@ -1,0 +1,153 @@
+body {
+    font-family:Arial;
+    }
+.div1 {
+    background-color: #8cc1ed;
+    display: inline-block;
+    height: 20%;
+    position: absolute;
+    width: 99%;
+}
+
+.topnav {
+    text-align: center;
+    font-size: 40px;
+    color: pink;
+    padding-top: 30px;
+}
+
+.quote {
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    padding-top: 225px;
+    font-family:Georgia;
+}
+
+.pic {
+    float: right;
+    height: 150%;
+    width: 30%;
+}
+
+.div2 {
+    background-color: #324ea8;
+    height: 25%;
+    width: 65%;
+}
+.reg {
+        text-align: center;
+    font-size: 40px;
+    color: black;
+    padding-top: 225px;
+    }
+
+button:hover {
+    background-color: #6fa3d8;
+}
+
+button {
+    background-color: #438bde;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 15px;
+    width: 25%;
+}
+.form-group {
+  border: 2px solid black;
+  background-color: #d4d3d2;
+  padding: 15px;
+  width: 400px;
+position: relative;
+    height: 5%;
+    width: 20%;
+    }
+.tuff {
+font-size: 30px;
+margin-top: -400;
+float: right; 
+}
+.tuff1 {
+font-size: 30px;
+margin-top: -370;
+float: right; 
+width: 76.5%;
+    }
+.tuff2 {
+   font-size: 30px;
+margin-top: -370;
+float: right; 
+} 
+.pic1 {
+margin-top: 50;
+float: left;
+        }
+.words {
+margin-top: 200;
+float: right;
+    }
+.words1 {
+margin-top: -20;
+float: right;
+font-size: 25px;
+    }
+.words2 {
+    margin-top: 10;
+font-size: 20px; }
+.form-group1 {
+  border: 2px solid black;
+  background-color: #d4d3d2;
+  padding: 15px;
+  width: 400px;
+    height: 5%;
+    width: 20%;
+}
+#volunteerForm1 {
+margin-top: 160;
+    }
+#myInput {
+  background-image: url('/css/searchicon.png'); 
+  background-position: 10px 12px;
+  background-repeat: no-repeat; 
+  width: 100%; 
+  font-size: 16px; 
+  padding: 12px 20px 12px 40px; 
+  border: 1px solid #ddd; 
+  margin-bottom: 12px; 
+}
+
+#myUL {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+#myUL li a {
+  border: 1px solid #ddd;
+  margin-top: -1px; 
+  background-color: #f6f6f6; 
+  padding: 12px; 
+  text-decoration: none; 
+  font-size: 18px; 
+  color: black; 
+  display: block;
+}
+
+#myUL li a:hover:not(.header) {
+  background-color: #6fa3d8; /* Add a hover effect */
+}
+.tuff3 {
+font-size: 30px;
+margin-top: -60;
+margin-right: 30;
+float: right;
+    }
+.tuff4 {
+font-size: 30px;
+margin-top: 20;
+margin-right: 690;
+float: right;
+    }
